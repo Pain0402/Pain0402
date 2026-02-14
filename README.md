@@ -43,12 +43,10 @@
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</div>
+---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 </div>
 
 ---
@@ -85,6 +83,14 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Pain0402&color=A655F5&style=plastic" alt="Profile Logic" />
 </div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7dc581c4-98f2-45fd-be2d-204d0d4e3db3" width="400" />
+</div>
+
+<br><br>
+
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A655F5,100:3B82F6&height=100&section=footer&animation=fadeIn&fontColor=ffffff" width="100%" />

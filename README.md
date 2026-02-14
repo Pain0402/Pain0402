@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A655F5,100:3B82F6&height=250&section=header&text=Pain0402&fontSize=90&fontAlignY=35&desc=Full%20Stack%20Developer%20&descAlignY=60&descSize=25&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A655F5,100:3B82F6&height=250&section=header&text=Pain&fontSize=90&fontAlignY=35&desc=Full%20Stack%20Developer%20&descAlignY=60&descSize=25&animation=fadeIn&fontColor=ffffff" width="100%" />
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Think+Create+Innovate;Turning+Code+Into+Magic;Passion+for+AI+and+Scalability" alt="Typing SVG" /></a>
 </div>
@@ -19,12 +19,12 @@
   </p>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/Pain0402?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api?username=Pain0402&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=A655F5" height="160" alt="Pain0402's GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pain0402&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&langs_count=8" height="160" alt="Pain0402's Top Languages" />
   </a>
-</div>
+</div> -->
 
 ---
 

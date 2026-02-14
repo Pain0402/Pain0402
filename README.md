@@ -19,6 +19,12 @@
   </p>
 </div>
 
+<br>
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%">
+</div>
+
 
 
 ---
@@ -70,4 +76,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Pain0402&color=A655F5&style=plastic" alt="Profile Logic" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A655F5,100:3B82F6&height=100&section=footer&animation=fadeIn&fontColor=ffffff" width="100%" />
 </div>

@@ -19,12 +19,7 @@
   </p>
 </div>
 
-<div align="center">
-  <a href="https://github.com/Pain0402?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pain0402&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=A655F5" height="160" alt="Pain0402's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pain0402&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&langs_count=8" height="160" alt="Pain0402's Top Languages" />
-  </a>
-</div>
+
 
 ---
 
@@ -50,17 +45,13 @@
 | :--- | :--- | :--- |
 | [**CoolStyle**](https://github.com/Pain0402/CoolStyle) | Modern Fashion E-commerce Platform with Clean Architecture. | ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat&logo=dotnet) ![Vue 3](https://img.shields.io/badge/Vue-3.0-4FC08D?style=flat&logo=vue.js) ![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED?style=flat&logo=docker) |
 | [**Cine-Verse**](https://github.com/Pain0402/Cine-Verse) | Discover your next favorite movie with AI recommendations. | ![React](https://img.shields.io/badge/React-18.0-blue?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-13-black?style=flat&logo=next.js) |
-| [**Shopping Buddy AI**](https://github.com/Pain0402/Shopping-Buddy-AI) | Smart assistant for shopping lists and expense tracking. | ![Python](https://img.shields.io/badge/Python-3.11-yellow?style=flat&logo=python) ![AI](https://img.shields.io/badge/AI-Powered-red?style=flat) |
+| [**ComicsVerse**](https://github.com/Pain0402/Comics-Reading-Application) | Cross-platform mobile app for reading comics/manga. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase) |
 | [**TechSage**](https://github.com/Pain0402/TechSage) | A hub for tech enthusiasts and developers to share knowledge. | ![Vue](https://img.shields.io/badge/Vue.js-3.0-4FC08D?style=flat&logo=vue.js) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase) |
 
 ---
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pain0402&bg_color=0d1117&color=A655F5&line=3B82F6&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pain0402&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="Trophies" />
 </div>
 
 ---
